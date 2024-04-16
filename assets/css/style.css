@@ -641,6 +641,13 @@ header .grid-layout nav .nav-list li a:hover {
 #s-projects .grid-layout #projects .land:hover {
     border: 1px solid #a6fb98
 }
+#s-projects .grid-layout #projects .flores {
+    border: 1px solid #ef98fb
+}
+
+#s-projects .grid-layout #projects .flores:hover {
+    border: 1px solid #ef98fb
+}
 
 
 #s-projects .grid-layout #projects>article {
