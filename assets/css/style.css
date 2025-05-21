@@ -537,6 +537,13 @@ header .grid-layout nav .nav-list li a:hover {
     border: 1px solid #e92012
 }
 
+#s-projects .grid-layout #projects .zen{
+    border: 1px solid orange;
+}
+#s-projects .grid-layout #projects .zen:hover {
+border: 1px solid orange;
+}
+
 
 #s-projects .grid-layout #projects>article {
     height: auto;
